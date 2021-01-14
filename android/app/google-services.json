@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1063553821721",
+    "project_id": "btinalum-app",
+    "storage_bucket": "btinalum-app.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1063553821721:android:084672ced21df433d40e88",
+        "android_client_info": {
+          "package_name": "btinalum.app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1063553821721-il3ni1eim75u5nkkbrbcq2eru56g4e6t.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB6DpHk-KDuwnUQWkuwXBQfRwtQtOMoeSc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1063553821721-il3ni1eim75u5nkkbrbcq2eru56g4e6t.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
